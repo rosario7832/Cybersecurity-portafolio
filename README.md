@@ -7,15 +7,15 @@
 
 ---
 
-<h2>👨‍💻 Proyectos de Ciberseguridad</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 <ul>
-  <li>Implementación de Wazuh</li>
+  <li>Wazuh Implementation</li>
   <li>SIEM Honeypot Lab</li>
 </ul>
 
 ---
 
-<h2>📄 Certificaciones</h2>
+<h2>📄 Certifications</h2>
 <ul>
   <li>CompTIA Security+</li>
   <li>AWS Cloud Practitioner</li>
