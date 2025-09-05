@@ -23,3 +23,14 @@
   <li>Microsoft Azure Data Fundamentals</li>
 </ul>
 
+---
+
+<h2>🛠️ Technical Skills</h2>
+<ul>
+  <li>Network Analysis: Wireshark, Nmap</li>
+  <li>Penetration Testing: Metasploit, Burp Suite</li>
+  <li>Cloud Platforms: AWS, Microsoft Azure</li>
+  <li>Operating Systems: Linux, Windows</li>
+  <li>Security Monitoring & SIEM Tools</li>
+</ul>
+
