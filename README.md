@@ -1,36 +1,29 @@
-<h1>Hi, I'm Rosario!</h1>
+# Hi, I'm Rosario!
 
-<p>
-  <a href="https://github.com/rosario7832" target="_blank">🌐 GitHub</a> | 
-  <a href="https://www.linkedin.com/in/rosario-cascante" target="_blank">💼 Cybersecurity Professional</a>
-</p>
+[🌐 GitHub](https://github.com/rosario7832) | [💼 Cybersecurity Professional](https://www.linkedin.com/in/rosario-cascante)
 
 ---
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
-<ul>
-  <li>Wazuh Implementation</li>
-  <li>SIEM Honeypot Lab</li>
-</ul>
+## 👨‍💻 Cybersecurity Projects
+- [Wazuh SIEM Implementation](https://github.com/rosario7832/Implementation-of-Wazuh-SIEM)
+
+- SIEM Honeypot Lab
 
 ---
 
-<h2>📄 Certifications</h2>
-<ul>
-  <li>CompTIA Security+</li>
-  <li>AWS Cloud Practitioner</li>
-  <li>Microsoft Azure Fundamentals</li>
-  <li>Microsoft Azure Data Fundamentals</li>
-</ul>
+## 📄 Certifications
+- CompTIA Security+
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Microsoft Azure Data Fundamentals
 
 ---
 
-<h2>🛠️ Technical Skills</h2>
-<ul>
-  <li>Network Analysis: Wireshark, Nmap</li>
-  <li>Penetration Testing: Metasploit, Burp Suite</li>
-  <li>Cloud Platforms: AWS, Microsoft Azure</li>
-  <li>Operating Systems: Linux, Windows</li>
-  <li>Security Monitoring & SIEM Tools</li>
-</ul>
+## 🛠️ Technical Skills
+- **Network Analysis:** Wireshark, Nmap
+- **Penetration Testing:** Metasploit, Burp Suite
+- **Cloud Platforms:** AWS, Microsoft Azure
+- **Operating Systems:** Linux, Windows
+- **Security Monitoring & SIEM Tools**
+
 
