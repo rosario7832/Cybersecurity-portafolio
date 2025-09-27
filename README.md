@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Cybersecurity Projects
 - [Wazuh SIEM Implementation](https://github.com/rosario7832/Implementation-of-Wazuh-SIEM)
-
+- Lab Use Acitve Directory and Powershell
 - SIEM Honeypot Lab
 
 ---
